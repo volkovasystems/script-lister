@@ -1,0 +1,25 @@
+{
+  "name": "script-lister",
+  "version": "0.1.0",
+  "description": "Wraps all scripts in a file object. This is based on a specific file-directory structure.",
+  "main": "script-lister.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovasystems/script-lister.git"
+  },
+  "keywords": [
+    "script-lister",
+    "script",
+    "listing",
+    "file"
+  ],
+  "author": "Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volkovasystems/script-lister/issues"
+  },
+  "homepage": "https://github.com/volkovasystems/script-lister#readme"
+}
